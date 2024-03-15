@@ -1,2 +1,2 @@
 # devopsmarch
-for the devops march match of Intellipaat
+for the devops march batch of Intellipaat
